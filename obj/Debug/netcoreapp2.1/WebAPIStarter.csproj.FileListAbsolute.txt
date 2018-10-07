@@ -1,0 +1,14 @@
+/Users/Tim/repos/WebAPIBase/WebAPIStarter/bin/Debug/netcoreapp2.1/WebAPIStarter.deps.json
+/Users/Tim/repos/WebAPIBase/WebAPIStarter/bin/Debug/netcoreapp2.1/WebAPIStarter.runtimeconfig.json
+/Users/Tim/repos/WebAPIBase/WebAPIStarter/bin/Debug/netcoreapp2.1/WebAPIStarter.runtimeconfig.dev.json
+/Users/Tim/repos/WebAPIBase/WebAPIStarter/bin/Debug/netcoreapp2.1/WebAPIStarter.dll
+/Users/Tim/repos/WebAPIBase/WebAPIStarter/bin/Debug/netcoreapp2.1/WebAPIStarter.pdb
+/Users/Tim/repos/WebAPIBase/WebAPIStarter/obj/Debug/netcoreapp2.1/WebAPIStarter.csprojAssemblyReference.cache
+/Users/Tim/repos/WebAPIBase/WebAPIStarter/obj/Debug/netcoreapp2.1/WebAPIStarter.csproj.CoreCompileInputs.cache
+/Users/Tim/repos/WebAPIBase/WebAPIStarter/obj/Debug/netcoreapp2.1/WebAPIStarter.RazorAssemblyInfo.cache
+/Users/Tim/repos/WebAPIBase/WebAPIStarter/obj/Debug/netcoreapp2.1/WebAPIStarter.RazorAssemblyInfo.cs
+/Users/Tim/repos/WebAPIBase/WebAPIStarter/obj/Debug/netcoreapp2.1/WebAPIStarter.AssemblyInfoInputs.cache
+/Users/Tim/repos/WebAPIBase/WebAPIStarter/obj/Debug/netcoreapp2.1/WebAPIStarter.AssemblyInfo.cs
+/Users/Tim/repos/WebAPIBase/WebAPIStarter/obj/Debug/netcoreapp2.1/WebAPIStarter.RazorTargetAssemblyInfo.cache
+/Users/Tim/repos/WebAPIBase/WebAPIStarter/obj/Debug/netcoreapp2.1/WebAPIStarter.dll
+/Users/Tim/repos/WebAPIBase/WebAPIStarter/obj/Debug/netcoreapp2.1/WebAPIStarter.pdb

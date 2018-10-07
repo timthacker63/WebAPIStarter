@@ -1,0 +1,22 @@
+GET http://localhost:5000/api/todo
+
+###
+GET http://localhost:5000/api/todo/1
+
+###
+PUT http://localhost:5000/api/todo/1 http/1.1
+Content-Type: application/json
+
+{
+    "name": "walk dog",
+    "isComplete": true
+}
+
+###
+POST http://localhost:5000/api/todo http/1.1
+Content-Type: application/json
+
+{
+    "name": "{{$guid}}",
+    "isComplete": false
+}
